@@ -1,0 +1,23 @@
+{
+  "business": "Bloom Aesthetics Clinic",
+  "hours": "Mon-Sat, 9am-7pm",
+  "services": {
+    "Botox": "from £200",
+    "Fillers": "from £250",
+    "Consultation": "Free"
+  },
+  "booking": "WhatsApp (+91 7667214728) or website. Book via: https://wa.me/917667214728?text=Hi",
+  "cancellation": "24 hour notice required",
+  "phone": "+91 7667214728",
+  "location": "KIIT Road, Patia, Bhubaneswar, Odisha, India. Google Maps: https://maps.app.goo.gl/f4D9nZFZfXGmBhLd8?g_st=aw",
+  "payment_methods": "Not specified",
+  "escalate_if": [
+    "complaint",
+    "medical question",
+    "pricing negotiation",
+    "side effects",
+    "medical advice request",
+    "pregnancy safety",
+    "treatment risk"
+  ]
+}

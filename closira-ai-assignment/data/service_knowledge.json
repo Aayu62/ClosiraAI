@@ -1,0 +1,49 @@
+{
+  "clinic_information": {
+    "name": "Bloom Aesthetics Clinic",
+    "address": "Bloom Aesthetics Clinic, KIIT Road, Patia, Bhubaneswar, Odisha, India",
+    "google_maps": "https://maps.app.goo.gl/f4D9nZFZfXGmBhLd8?g_st=aw",
+    "whatsapp_booking": {
+      "phone": "+91 7667214728",
+      "booking_link": "https://wa.me/917667214728?text=Hi"
+    }
+  },
+
+  "Botox": {
+    "description": "Botox is a cosmetic treatment using purified botulinum toxin to temporarily reduce wrinkles and relax facial muscles.",
+    "common_uses": [
+      "Forehead lines",
+      "Crow's feet",
+      "Frown lines"
+    ],
+    "duration": "Results usually last 3-4 months.",
+    "disclaimer": "Medical suitability questions require consultation with a specialist."
+  },
+
+  "Fillers": {
+    "description": "Dermal fillers are injectable treatments used to restore facial volume and smooth lines.",
+    "common_uses": [
+      "Lip enhancement",
+      "Cheek volume",
+      "Jawline shaping"
+    ],
+    "duration": "Results vary depending on product and treatment area.",
+    "disclaimer": "Medical suitability questions require specialist guidance."
+  },
+
+  "Consultation": {
+    "description": "Consultations are introductory appointments where treatment goals and options are discussed.",
+    "cost": "Free",
+    "includes": [
+      "Discussion of goals",
+      "Treatment overview",
+      "Basic guidance"
+    ]
+  },
+
+  "faq_extensions": {
+    "booking": "Bookings can be made through WhatsApp or website.",
+    "location": "Customers can visit the clinic location or use Google Maps.",
+    "contact": "WhatsApp booking is available."
+  }
+}
